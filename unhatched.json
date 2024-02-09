@@ -1,0 +1,16 @@
+{
+    "name": "Demonz",
+    "description":"6,666 Demonz on-chain powered by ERC404. All hail the prince of darkness.",
+    "image": "https://raw.githubusercontent.com/devdemonz/metadata/main/image/Demonz-Egg.gif",
+    "external_url":"https://demonz.game",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "dark"
+      },
+      {
+        "trait_type": "status",
+        "value": "unhatched"
+      }
+    ]
+  }
